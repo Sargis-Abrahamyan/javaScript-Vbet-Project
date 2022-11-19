@@ -1,0 +1,704 @@
+@media (max-width: 1245px) {
+    .tips-info-items {
+        max-width: 275px;
+    }
+
+    .tips-info-items img {
+        max-width: 279px;
+    }
+
+}
+
+@media (max-width: 1191px) {
+    .nav-container {
+        padding: 0 54px
+
+    }
+
+    #logo img {
+        width: 190px;
+    }
+
+    .nav-menu li a {
+        font-size: 22px;
+    }
+
+    .tips-info-items {
+        max-width: 275px;
+        margin: 14px;
+
+    }
+
+    .tips-info-items img {
+        max-width: 279px;
+    }
+
+    .info-about-size {
+        max-width: 577px;
+    }
+
+
+    .info-about-title {
+        font-size: 46px;
+
+    }
+
+    .about-section-title {
+        font-size: 28px;
+
+    }
+
+    .section-about-text {
+        font-size: 15px;
+    }
+
+    .about-section-size {
+        max-width: 860px;
+        justify-content: center;
+        text-align: center;
+    }
+
+
+    .link-size {
+        display: flex;
+        justify-content: center;
+        margin-top: 76px;
+    }
+
+
+    .about-section-img {
+        display: none;
+    }
+
+
+    .contact-section-title {
+        font-size: 27px;
+    }
+
+    .contact-section-text {
+        font-size: 20px;
+    }
+
+
+    .big {
+        font-size: 14px;
+        font-family: Montserrat;
+    }
+
+    .contact-section-size {
+        max-width: 545px;
+        padding: 0 0;
+
+    }
+
+    .contact-link {
+        height: 50px;
+        width: 220px;
+    }
+
+    .contact-link img {
+        width: 45px;
+    }
+
+    .text-link-size {
+        font-size: 12px;
+    }
+
+
+    .contact-link-item {
+        max-width: 300px;
+        height: 263px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: start;
+        margin: auto;
+
+
+    }
+}
+
+@media (max-width: 1066px) {
+    .tips-info {
+        justify-content: center;
+    }
+
+}
+
+@media (max-width: 1005px) {
+    .menu-size {
+
+        display: none
+    }
+
+    .casino-size {
+        max-width: 670px;
+    }
+
+    .games-size-items {
+        max-width: 565px;
+
+    }
+
+    .tips {
+        padding: 24px 0;
+    }
+
+    .tips-text {
+        text-align: center;
+        font-size: 17px;
+    }
+
+    .deposit-title {
+        font-size: 28px;
+        text-align: center;
+        line-height: 10px;
+
+    }
+
+    .deposit-text {
+        font-size: 17px;
+        text-align: center;
+    }
+
+
+    .original-size img {
+        max-width: 233px;
+    }
+
+    .original-title {
+        font-family: Montserrat;
+        text-align: center;
+        font-size: 24px;
+    }
+
+    .original-text {
+        font-size: 19px;
+        text-align: center;
+
+    }
+
+    .safe-size {
+        flex-direction: column;
+        height: 528px;
+
+    }
+
+    .safe-title {
+        text-align: center;
+
+    }
+
+    .safe-text {
+        font-size: 15px;
+        margin: auto;
+        padding: 0 0 60px;
+
+
+    }
+
+    .safe-size img {
+        margin: auto;
+        height: 175px;
+    }
+
+    .footer-context-size {
+
+
+        max-width: 335px;
+        justify-content: space-between;
+    }
+
+
+    .footer-link-items {
+        font-size: 10px;
+    }
+
+    .footer-logo {
+        max-width: 374px;
+        margin: auto;
+
+    }
+
+    .footer-logo-info {
+        text-align: center;
+        font-size: 19px;
+        padding: 20px;
+
+
+    }
+
+    .logo {
+        margin: 73px auto;
+
+    }
+
+    .footer-title {
+        font-size: 12px;
+
+    }
+
+
+    .footer-info-nav {
+        max-width: 272px;
+
+    }
+
+    .info-text {
+        display: flex;
+        order: 1;
+        margin: 11px 19px;
+    }
+
+    .nav-container {
+        position: fixed;
+        z-index: 2;
+        background-color: black;
+        width: 100%;
+    }
+
+
+    .menu {
+        display: block;
+        top: -1px;
+    }
+
+
+    .mySlides img {
+        width: 100%;
+        margin: 70px 0px 1px;
+    }
+
+    .menu-size-hidden {
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        align-items: center;
+        margin: auto;
+        padding: 12px;
+    }
+
+
+    .bet-big-title {
+        margin-top: 32px;
+
+    }
+
+    .contact-section-title {
+        font-size: 22px;
+    }
+
+    .text-link-size-info {
+        font-size: 26px;
+    }
+}
+
+@media (max-width: 708px) {
+
+    .casino-size {
+        max-width: 460px;
+    }
+
+    .casino-size img {
+        width: 170px;
+        margin: 29px 0;
+    }
+
+    .games-size-items {
+        max-width: 500px;
+    }
+
+    .tips-info {
+        justify-content: center;
+
+    }
+
+    .deposit-title {
+        font-size: 22px;
+        text-align: center;
+        line-height: 37px;
+    }
+
+    .deposit-text {
+        max-width: 512px;
+        text-align: center;
+        font-size: 16px;
+    }
+
+    .deposit-size img {
+        max-width: 240px;
+    }
+
+
+    .original-size img {
+        max-width: 190px;
+    }
+
+    .original-title {
+        font-size: 30px;
+        text-align: center;
+    }
+
+    .original-text {
+        font-size: 14px;
+        line-height: 30px;
+        text-align: center;
+    }
+
+
+    .safe-size {
+        padding: 0;
+    }
+
+    .safe-title {
+        margin-top: 50px;
+        text-align: center;
+
+    }
+
+    .safe-size img {
+        max-width: 145px;
+        margin: auto;
+    }
+
+    .safe-text {
+        font-size: 14px;
+        text-align: center;
+
+    }
+
+    .footer-links {
+        display: none;
+    }
+
+    .footer-logo {
+        margin: auto;
+
+    }
+
+
+    .footer-info-nav {
+        max-width: 272px;
+
+    }
+
+    .info-text {
+        display: flex;
+        order: 1;
+        margin: 11px 19px;
+    }
+
+
+    header img {
+        width: 100%;
+        margin: auto;
+        height: 246px;
+    }
+
+    .about-section-title, .info-about-section {
+        font-size: 23px;
+    }
+
+    .bet-big-text {
+        font-size: 31px;
+
+    }
+
+
+    .bet-big-title {
+        font-size: 38px;
+        margin-top: 35px;
+    }
+
+
+    .bet-big-link {
+        height: 53px;
+        width: 189px;
+        font-size: 9px;
+    }
+
+    .footer-logo-info {
+        font-size: 14px;
+    }
+
+    .text-link-size {
+        font-size: 8px;
+    }
+
+    .text-link-size-info {
+        font-size: 19px;
+        margin: auto;
+    }
+
+    .contact-section-title {
+        font-size: 17px;
+        text-align: center;
+    }
+
+    .section-contact-text {
+        font-size: 14px;
+        text-align: center;
+        padding: 0 0;
+
+    }
+
+    .info-contact-section {
+        font-size: 14px;
+        display: flex;
+        justify-content: center;
+    }
+}
+
+@media (max-width: 540px) {
+
+    .mySlides img {
+        max-width: 100%;
+        margin: 61px 0px 1px;
+
+    }
+
+    .tips-text {
+        font-size: 13px;
+
+    }
+
+    .safe-size img {
+        margin: auto;
+        height: 175px;
+    }
+
+    .logo img {
+        width: 214px;
+
+    }
+
+    .footer-logo-info {
+        font-size: 13px;
+        line-height: 25px;
+
+    }
+
+
+    .games-size-items {
+        max-width: 218px;
+    }
+
+    .text-link-title {
+        max-width: 346px;
+        font-family: Montserrat;
+        font-size: 14px;
+    }
+
+    .tips-link {
+        font-size: 11px;
+
+    }
+
+    .info-tday {
+        font-size: 13px;
+
+    }
+
+    h1 {
+        font-size: 31px;
+
+    }
+
+    .tips-title {
+
+        font-size: 25px;
+    }
+
+    .safe-size img {
+        margin: auto;
+        height: 142px;
+    }
+
+    .safe-size img {
+        height: 107px;
+    }
+
+}
+
+@media (max-width: 378px) {
+
+    .mySlides img {
+        width: 100%;
+        margin: 64px 0 1px;
+    }
+
+    h1 {
+        font-size: 22px;
+
+    }
+
+    .casino-size img {
+        width: 130px;
+    }
+
+    .games-size-items img {
+        width: 145px;
+    }
+
+    .logoPhone img {
+        width: 110px;
+    }
+
+    .tips-info-items img {
+        max-width: 180px;
+    }
+
+    .text-link {
+        max-width: 180px;
+    }
+
+    .text-link-title {
+
+        font-size: 11px;
+    }
+
+    .tips-link {
+        font-size: 12px;
+
+    }
+
+    .info-tday {
+        font-size: 10px;
+
+    }
+
+    .games-size-items {
+        max-width: 162px;
+    }
+
+    .text-link {
+        height: 220px;
+
+    }
+
+    header img {
+        height: 218px;
+    }
+
+    .bet-big-img {
+        max-width: 195px;
+    }
+
+    .about-section-title, .info-about-section {
+        font-size: 14px;
+    }
+
+    .safe-size img {
+        display: none;
+    }
+
+    .safe-block {
+        margin-top: 101px;
+
+    }
+}
+
+@media (max-width: 295px ) {
+
+
+    .nav-container {
+
+        height: 64px;
+        width: 100%;
+    }
+
+    .menu-size-hidden {
+        flex-wrap: nowrap;
+    }
+
+    .menu {
+        top: -27px;
+        left: -42px;
+    }
+
+    .logoPhone img {
+        width: 61px;
+    }
+
+    .menu-size-hidden {
+        padding: 12px 0;
+    }
+
+    h1 {
+        font-size: 16px;
+
+    }
+
+    .safe-title {
+        font-size: 20px;
+        margin-top: 42px;
+    }
+
+    .original-title {
+        font-size: 9px;
+        margin-top: 20px;
+    }
+
+    .logo img {
+        width: 161px;
+    }
+
+    .footer-logo-info {
+        font-size: 10px;
+    }
+
+    .info-text {
+
+        font-size: 14px;
+    }
+
+
+    .info-text-bold {
+        font-size: 14px;
+    }
+
+    .info-icons {
+        width: 235px;
+        display: flex;
+        justify-content: space-evenly;
+        flex-wrap: wrap;
+        margin: auto;
+    }
+
+    .link-icons {
+        width: 36px;
+        padding: 4px 0;
+    }
+
+
+    .bet-big-title {
+        font-size: 15px;
+        margin-top: 0;
+    }
+
+    .bet-big-text {
+        font-size: 12px;
+    }
+
+    .about-section-title, .info-about-section {
+        font-size: 11px;
+    }
+
+    .section-about-text {
+        font-size: 11px;
+    }
+
+    .about-link {
+        font-size: 22px;
+    }
+
+    .info-contact-section {
+        font-size: 11px;
+    }
+
+    .section-contact-text {
+        font-size: 12px;
+    }
+
+}
+
